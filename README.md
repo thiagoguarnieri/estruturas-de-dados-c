@@ -2,7 +2,7 @@
 Data structures implemented in C for academic purposes.
 
 <p>
-It contains
+It contains:
 <ul>
   <li> linked lists
   <li> Queue
