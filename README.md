@@ -1,5 +1,5 @@
 # Common data structures
-Data structures implemented in C for academic purposes.
+Code in C I made to teach data structures in graduatio courses at CEFET-MG
 
 <p>
 It contains:
