@@ -12,3 +12,5 @@ It contains:
   <li> Graph
 <ul>
 </p>
+
+I have also included the lecture slides.
